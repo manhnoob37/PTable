@@ -1,10 +1,20 @@
 === PTable.exe ===
  + Đây là sản phẩm "Bảng Tuần Hoàn" của lớp 10A3-NTT
  + Bao gồm các chức năng kĩ thuật và giao diện khá là đẹp mắt:)
- + Phiên bản: v1.0
+ + Phiên bản: v1.1
 
 === Notes ===
- + Phẩn mềm chứa code nâng cao, cần giải nén và cấp Administrators!
+v1.1:
+ - Thêm giao diện Trắng (Light Mode)
+ - Chỉnh sửa, cập nhật một chút số liệu
+ - Giờ đây tương thích với chế độ Fullscreen
+ - Sửa bugs nhỏ
+
+v1.0:
+ - Bảng tuần hoàn cung cấp các chức năng cơ bản và thú vị!
+ - Giao diện mặc định: Đen
+
+*Phẩn mềm chứa code nâng cao, cần giải nén và cấp Administrators!
 
 *Cách tra:
  + Ấn vào Ô Nguyên tố bất kỳ, sẽ hiện thêm thông tin chi tiết cho từng Nguyên tố.
